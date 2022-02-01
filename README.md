@@ -6,4 +6,4 @@
 
 3- commiter les modifications avec un message de commit : git commit -m "ajout script python" 
 
-4- pousser les commit vers la branche distante : git push
+4- pousser les commits vers la branche distante : git push
